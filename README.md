@@ -1,5 +1,5 @@
 # Gestión de productos
-Sistema de gestión de productos en una tienda donde podemos gestionar categoría que permite registrar, modificar y listar categorías, también gestionar producto que permite registrar, modificar y listar productos, en los reportes tenemos listado de productos, **05/10/20**
+Sistema de gestión de productos en una tienda con base de datos en SQLServer, donde podemos gestionar categoría que permite registrar, modificar y listar categorías, también gestionar producto que permite registrar, modificar y listar productos, en los reportes tenemos listado de productos, **05/10/20**
 
 <div align="center">
 <img src="media/menu-datos.png">
